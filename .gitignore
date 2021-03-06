@@ -1,5 +1,5 @@
 *.DS_Store
-./vendor/
+vendor/
 
 # ignore the test file
 olink_test.php

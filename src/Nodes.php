@@ -1101,7 +1101,7 @@ class Nodes
   */
   public function Qemu($node)
   {
-      return Request::Request("/nodes/$node/qemu");
+    return Request::Request("/nodes/$node/qemu");
   }
   /**
     * Create or restore a virtual machine.
