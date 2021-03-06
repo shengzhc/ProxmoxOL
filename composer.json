@@ -2,5 +2,10 @@
     "name": "shengzhc/proxmoxol",
     "require": {
         "php-curl-class/php-curl-class": "^8.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "ProxmoxOL\\": "src/"
+        }
     }
 }
