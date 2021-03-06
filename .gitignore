@@ -1,5 +1,11 @@
 *.DS_Store
+
+# ignore composer files
 vendor/
+composer.lock
+
+# ignore autoload
+autoload.php
 
 # ignore the test file
 olink_test.php
