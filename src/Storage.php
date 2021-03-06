@@ -1,14 +1,13 @@
 <?php
 
 /**
- * ProxmoxVE PHP API
+ * ProxmoxOL PHP API
  *
- * @copyright 2017 Saleh <Saleh7@protonmail.ch>
  * @license http://opensource.org/licenses/MIT The MIT License.
  */
 
-namespace Proxmox;
-use Proxmox\Request;
+namespace ProxmoxOL;
+use ProxmoxOL\Request;
 
 // /api2/json/storage
 class Storage

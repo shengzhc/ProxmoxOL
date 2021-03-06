@@ -1,13 +1,12 @@
 <?php
 
 /**
- * ProxmoxVE PHP API
+ * ProxmoxOL PHP API
  *
- * @copyright 2017 Saleh <Saleh7@protonmail.ch>
  * @license http://opensource.org/licenses/MIT The MIT License.
  */
 
-namespace Proxmox;
+namespace ProxmoxOL;
 
 use \Curl\Curl;
 

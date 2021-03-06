@@ -1,5 +1,5 @@
 <?php
-namespace Proxmox;
+namespace ProxmoxOL;
 
 /**
  * Main exception class used for exception handling

@@ -1,6 +1,6 @@
 <?php
 require_once 'vendor/autoload.php'; // Autoload files using Composer autoload
-use Proxmox\Request;
+use ProxmoxOL\Request;
 
 $configure = [
     'hostname'  => '0.0.0.0',
